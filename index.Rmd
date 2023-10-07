@@ -552,7 +552,7 @@ lus_bigramas |>
 
 ## Example 12: Visualizing bigrams 🎲
 
-- Network with top 50 bigrams from *Os Lusiádas* with `networkD3` (excluding `#`)
+- Network with top 50 bigrams from *Os Lusíadas* with `networkD3` (excluding `#`)
 
 <br>
 
