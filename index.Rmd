@@ -276,7 +276,7 @@ d |>
 - `getWeight()`: extracts weight profile (e.g., `LLH`)
 - `getSyl()`: extracts a given syllable
 - `syllable()`: extracts syllabic constituents
-- `stopwords_pt` and `stopwords_sp`: stopwords in (adapted from `tm` package)
+- `stopwords_pt` and `stopwords_sp`: stopwords (adapted from `tm` package)
 
 
 ---
